@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning NLP, Robotics, RL...
-📫 How to reach me: 1179317590@qq.com / hlwang1024@gmail.com
-⚡ Fun fact: I love playing many kinds of sports, especially basketball, table tennis, volleyball. Welcome to play with me 😆
+ - 🌱 I’m currently learning NLP, Robotics, RL...
+ - 📫 How to reach me: 1179317590@qq.com / hlwang1024@gmail.com
+ - ⚡ Fun fact: I love playing many kinds of sports, especially basketball, table tennis, volleyball. Welcome to play with me 😆
 
